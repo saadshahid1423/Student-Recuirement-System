@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "424199407781",
+    "project_id": "transo-8686a",
+    "storage_bucket": "transo-8686a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424199407781:android:e43bf461c1642e3f35a54c",
+        "android_client_info": {
+          "package_name": "com.campusrecsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424199407781-4iatb3d88i97r5ind00kmkko1vkfnsqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEU0k1YNiS7Z7CL7t7WkZDvfJLSRe7Tu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424199407781-4iatb3d88i97r5ind00kmkko1vkfnsqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
